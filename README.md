@@ -74,9 +74,8 @@ This tool can be used as a [Claude Skill](https://www.claude.com/blog/skills) in
 **How to use:**
 1. Download the `.zip` file from [Releases](https://github.com/oskar-gm/cl-code-visualizer/releases)
 2. In Claude.ai, go to **Settings > Capabilities > Skills** and upload the `.zip`
-3. Add the skill to your project or send it to Claude in a conversation
-4. Ask Claude: "Convert my chat.json to HTML" or "Visualize this conversation"
-5. Send your JSONL chat file (see [Claude Code File Locations](#-claude-code-file-locations) below)
+3. In any conversation, ask Claude: "Convert my Claude Code chat to HTML" or "Visualize my conversation log"
+4. Send your JSONL chat file (see [Claude Code File Locations](#-claude-code-file-locations) below)
 
 ### 📁 File Structure
 
@@ -234,9 +233,8 @@ Esta herramienta puede usarse como [Skill de Claude](https://www.claude.com/blog
 **Cómo usar:**
 1. Descarga el archivo `.zip` desde [Releases](https://github.com/oskar-gm/cl-code-visualizer/releases)
 2. En Claude.ai, ve a **Ajustes > Capacidades > Skills** y sube el `.zip`
-3. Añade el skill a tu proyecto o envíaselo a Claude en una conversación
-4. Pídele a Claude: "Convierte mi chat.json a HTML" o "Visualiza esta conversación"
-5. Envía tu archivo JSONL del chat (ver [Ubicación de Archivos de Claude Code](#-ubicación-de-archivos-de-claude-code) más abajo)
+3. En cualquier conversación, pídele a Claude: "Convierte mi chat de Claude Code a HTML" o "Visualiza mi registro de conversación"
+4. Envía tu archivo JSONL del chat (ver [Ubicación de Archivos de Claude Code](#-ubicación-de-archivos-de-claude-code) más abajo)
 
 ### 📁 Estructura de Archivos
 
